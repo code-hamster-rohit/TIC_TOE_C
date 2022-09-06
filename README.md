@@ -7,3 +7,5 @@ P1 scores 1 point if it stops P2 scoring 3 points, i.e., P1 fills X in
 a cell of a row/column/diagonal in which P2 has already filled
 two cells with O.
 Similar are the rules for P2.
+This game goes endlessly until and unless all rows and coloumn are filled.
+Cumulative score gets counted, so don't loose even 1 point! 
